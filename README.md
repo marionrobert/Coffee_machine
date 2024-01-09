@@ -23,4 +23,4 @@ Exécutez le fichier `main.py` pour démarrer la simulation de la machine à caf
 La machine propose trois types de cafés : Espresso, Latte et Cappuccino. L'utilisateur peut également demander un "Rapport" pour obtenir les ressources actuelles de la machine ou éteindre la machine en saisissant "Off".
 
 ## Remarques
-- Projet réalisé dans le cadre du cours 100 Days of Code: The Complete Python Pro Bootcamp de Angela Yu sur la plateforme Udemy.
+- Projet réalisé dans le cadre du cours [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/) de Angela Yu sur la plateforme Udemy.
